@@ -1,3 +1,7 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
 <script lang="ts">
   import Writeup from '../components/Writeup.svelte';
   import Item from '../components/Item.svelte';
